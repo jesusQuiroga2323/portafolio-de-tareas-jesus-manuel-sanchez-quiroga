@@ -2,4 +2,4 @@
 
 ![MENU JESUS](https://github.com/jesusQuiroga2323/portafolio-de-tareas-jesus-manuel-sanchez-quiroga/assets/108901799/8e1186eb-2e85-4065-a1c4-1835f9407f0e)
 
-https://asciinema.org/a/eKJsfknxNQnhfy21dlyo6Xtqk
+[![asciicast](https://asciinema.org/a/eKJsfknxNQnhfy21dlyo6Xtqk.svg)](https://asciinema.org/a/eKJsfknxNQnhfy21dlyo6Xtqk)
