@@ -8,5 +8,4 @@
 
 ![image](https://github.com/jesusQuiroga2323/portafolio-de-tareas-jesus-manuel-sanchez-quiroga/assets/108901799/9e047cd9-e73a-46bf-acc0-d79a878437f6)
 
-
-[![asciicast](https://asciinema.org/a/eKJsfknxNQnhfy21dlyo6Xtqk.svg)](https://asciinema.org/a/eKJsfknxNQnhfy21dlyo6Xtqk)
+[![asciicast](https://asciinema.org/a/wnbfCrUvhyjzcVOaYDAazrFxJ.svg)](https://asciinema.org/a/wnbfCrUvhyjzcVOaYDAazrFxJ)
